@@ -1,6 +1,6 @@
 # Stepic_ML_contest
 
-course website: https://stepik.org/course/4852/info
+contest page: https://stepik.org/lesson/226979/step/2?unit=199528
 
 ## Цель 
 Предсказать, сможет ли пользователь успешно закончить онлайн курс "Анализ данных в R". Пользователь считается прошедшим курс, если пройдет больше 40 практических шагов. Результатом оценивается ROC AUC score. В качестве алгоритма использован **RandomForest** и **CatBoostClassifaer**
