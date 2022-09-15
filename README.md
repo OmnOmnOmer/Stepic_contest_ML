@@ -1,1 +1,1 @@
-# Stepic_contest_ML
+# Stepic_ML_contest
